@@ -1,0 +1,15 @@
+{
+  "_id": "employee.noah-ellis",
+  "_type": "employee",
+  "slug": "noah-ellis",
+  "name": "Noah Ellis",
+  "role": "Head of Marketing",
+  "department": "marketing",
+  "bio": "Noah helps renewable energy service teams understand what Fieldbook can do. He prefers a customer example and a tested screenshot to a broad product claim.",
+  "responsibilities": [
+    "Launch announcements, campaign plans, and making sure marketing claims match shipped features.",
+    "Customer stories, testimonials, permission to use customer logos, and case-study interviews.",
+    "Company messaging, website copy, and requests for marketing materials."
+  ],
+  "updated": "2026-09-12"
+}

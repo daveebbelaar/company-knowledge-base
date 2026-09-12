@@ -1,0 +1,15 @@
+{
+  "_id": "employee.maya-chen",
+  "_type": "employee",
+  "slug": "maya-chen",
+  "name": "Maya Chen",
+  "role": "Head of Engineering",
+  "department": "engineering",
+  "bio": "Maya leads the team building Fieldbook and keeps releases predictable. She turns technical risks into clear decisions the rest of the company can use.",
+  "responsibilities": [
+    "Engineering delivery, release readiness, and technical exceptions for customer pilots.",
+    "Data residency, hosting architecture, and questions about where customer data is processed.",
+    "Incident leadership and engineering escalation. For an active outage or missing device, contact the on-call engineer first."
+  ],
+  "updated": "2026-09-12"
+}

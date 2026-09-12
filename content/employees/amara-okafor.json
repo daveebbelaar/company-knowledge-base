@@ -1,0 +1,15 @@
+{
+  "_id": "employee.amara-okafor",
+  "_type": "employee",
+  "slug": "amara-okafor",
+  "name": "Amara Okafor",
+  "role": "Head of Sales",
+  "department": "sales",
+  "bio": "Amara works with prospective customers to find a useful first pilot. She keeps commercial commitments specific and makes sure a promising deal is also a good fit.",
+  "responsibilities": [
+    "Customer fit, discovery calls, pilot scope, and sales proposals.",
+    "Approval of subscription discounts above 10% and up to 20%.",
+    "Sales escalations and commercial expectations. Discounts above 20% go to Finance and the managing director; custom payment terms go to Finance."
+  ],
+  "updated": "2026-09-12"
+}

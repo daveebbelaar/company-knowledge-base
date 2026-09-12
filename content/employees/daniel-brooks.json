@@ -1,0 +1,15 @@
+{
+  "_id": "employee.daniel-brooks",
+  "_type": "employee",
+  "slug": "daniel-brooks",
+  "name": "Daniel Brooks",
+  "role": "Finance Lead",
+  "department": "operations",
+  "bio": "Daniel looks after the numbers behind Vellumridge’s customer commitments and day-to-day spending. He helps teams resolve payment questions before they become surprises.",
+  "responsibilities": [
+    "Custom customer payment terms, annual prepayment combined with promotions, and finance approval of commercial exceptions.",
+    "Subscription discounts above 20%, which require joint approval from Finance and Elena Rossi, the managing director.",
+    "Invoice discrepancies, supplier payment questions, and payroll reimbursement timing. Start routine expense claims with Sofia de Vries in Operations."
+  ],
+  "updated": "2026-09-12"
+}

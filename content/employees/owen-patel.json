@@ -1,0 +1,15 @@
+{
+  "_id": "employee.owen-patel",
+  "_type": "employee",
+  "slug": "owen-patel",
+  "name": "Owen Patel",
+  "role": "Platform & Security Engineer",
+  "department": "engineering",
+  "bio": "Owen works on the systems that keep Fieldbook available and company devices secure. He writes down the recovery steps so an incident does not depend on one person being online.",
+  "responsibilities": [
+    "Technical security questions, access controls, and managed-device lock or wipe procedures.",
+    "Credential exposure, revoking active sessions, and recovering access after a lost or stolen laptop.",
+    "Platform reliability and incident runbooks. Owen participates in the on-call rotation, but is not always the current on-call engineer; use the on-call route for urgent incidents."
+  ],
+  "updated": "2026-09-12"
+}

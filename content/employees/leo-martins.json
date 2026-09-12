@@ -1,0 +1,15 @@
+{
+  "_id": "employee.leo-martins",
+  "_type": "employee",
+  "slug": "leo-martins",
+  "name": "Leo Martins",
+  "role": "Support Lead",
+  "department": "support",
+  "bio": "Leo helps field teams get back to work when something goes wrong. He connects recurring support issues with the people who can fix their cause.",
+  "responsibilities": [
+    "Support triage, customer escalations, and coordinating updates on open support cases.",
+    "Customer data export or deletion requests, with identity verification and the documented review process.",
+    "Support handovers and recurring product problems. Active incidents follow the on-call route rather than waiting for Leo."
+  ],
+  "updated": "2026-09-12"
+}

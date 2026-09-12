@@ -1,0 +1,15 @@
+{
+  "_id": "employee.elena-rossi",
+  "_type": "employee",
+  "slug": "elena-rossi",
+  "name": "Elena Rossi",
+  "role": "Managing Director",
+  "department": "operations",
+  "bio": "Elena sets the company’s direction and helps departments resolve decisions that cross their boundaries. She stays close to customer outcomes while leaving routine decisions with the people who own them.",
+  "responsibilities": [
+    "Company strategy, business priorities, and decisions spanning multiple department leads.",
+    "Subscription discounts above 20%, jointly with Daniel Brooks in Finance.",
+    "Escalated business trade-offs and exceptional commercial risk. Routine sales, people, and operations questions go to the responsible department lead."
+  ],
+  "updated": "2026-09-12"
+}

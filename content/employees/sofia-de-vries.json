@@ -1,0 +1,15 @@
+{
+  "_id": "employee.sofia-de-vries",
+  "_type": "employee",
+  "slug": "sofia-de-vries",
+  "name": "Sofia de Vries",
+  "role": "Operations Lead",
+  "department": "operations",
+  "bio": "Sofia runs the practical side of working at Vellumridge. She makes travel, purchasing, and equipment requests easy to follow without losing the details needed for approval.",
+  "responsibilities": [
+    "Travel expenses, missing receipts, reimbursements, and hotel-limit questions before booking.",
+    "Purchasing requests, software subscriptions, equipment orders, and cost centers.",
+    "Recording lost-device incidents and arranging replacement laptops. Contact the on-call engineer first to secure a missing device."
+  ],
+  "updated": "2026-09-12"
+}

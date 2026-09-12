@@ -1,0 +1,15 @@
+{
+  "_id": "employee.isabel-park",
+  "_type": "employee",
+  "slug": "isabel-park",
+  "name": "Isabel Park",
+  "role": "People & HR Lead",
+  "department": "people",
+  "bio": "Isabel helps colleagues start well and understand how work fits around their lives. She keeps people policies readable and follows up when a situation needs an individual conversation.",
+  "responsibilities": [
+    "Onboarding, first-week questions, manager introductions, and the people handbook.",
+    "Time off, leave balances, and questions about local employment arrangements.",
+    "Temporary work from another country and home-office equipment budgets. Request country approval at least ten working days ahead; the policy limit is 20 working days per calendar year."
+  ],
+  "updated": "2026-09-12"
+}

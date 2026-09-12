@@ -1,0 +1,15 @@
+{
+  "_id": "employee.priya-shah",
+  "_type": "employee",
+  "slug": "priya-shah",
+  "name": "Priya Shah",
+  "role": "Product Lead",
+  "department": "engineering",
+  "bio": "Priya talks with field technicians and operations leads to decide what Fieldbook should solve next. She turns customer feedback into product priorities and keeps roadmap conversations honest.",
+  "responsibilities": [
+    "Product priorities, customer feature requests, roadmap questions, and deciding what belongs in a future release.",
+    "Scoping offline workflow improvements and clarifying which product capabilities are available today.",
+    "Reviewing proposed feature commitments with Engineering and Sales. A roadmap item is not a customer promise or a guaranteed delivery date."
+  ],
+  "updated": "2026-09-12"
+}
